@@ -1,7 +1,6 @@
-Gemini said
+
 This is a professional-grade Battery SOC Estimation Tool designed for researchers and engineers working with lithium-ion batteries (specifically NMC Chemistry in this case).
 
-Here is a structured description you can paste directly into your GitHub README.mdfile:
 
 🔋 Battery State-of-Charge (SOC) Estimation Tool
 OCV Modeling & 2RC-Hysteresis Extended Kalman Filter (EKF)
